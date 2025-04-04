@@ -2,5 +2,5 @@
 
 ## SUMÁRIO
 
-- [Typescript](./Typescript/POO/README.md)
+- [Typescript](./Typescript/README.md)
 - [Domain Drive Design](./2-DDD/README.md)
