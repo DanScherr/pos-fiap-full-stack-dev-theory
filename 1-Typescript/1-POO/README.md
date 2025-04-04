@@ -1,5 +1,7 @@
 # PÓS FIAP FULL STACK DEVELOPER
 
+[Home](../../README.md)/[Typescript](../README.md)
+
 ## POO
 #### [Polimorfismo](https://www.typescriptlang.org/docs/handbook/2/classes.html#extends-clauses)
 * Herdar atributos e sobrescrever métodos

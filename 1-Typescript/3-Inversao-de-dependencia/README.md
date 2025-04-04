@@ -1,5 +1,7 @@
 # PÓS FIAP FULL STACK DEVELOPER
 
+[Home](../../README.md)/[Typescript](../README.md)
+
 ## Inversão de dependência
 ### Inversão de controle
 * É  uma  maneira  de  organizar  programas  de computador nos quais não é a pessoa desenvolvedora quem determina diretamente a   ordem   e   o   modo   como   os   métodos   são   chamados.   Em   vez   disso,   essa 

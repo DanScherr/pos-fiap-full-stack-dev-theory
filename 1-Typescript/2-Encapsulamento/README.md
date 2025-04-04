@@ -1,5 +1,7 @@
 # PÓS FIAP FULL STACK DEVELOPER
 
+[Home](../../README.md)/[Typescript](../README.md)
+
 ## [Encapsulamento](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html#handbook-content)
 * Preferível usar módulos.
 
